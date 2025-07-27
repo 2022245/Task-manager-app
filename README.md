@@ -24,8 +24,10 @@ This will start Vite (frontend) and Electron together.
 ## 4. How to Build (Executable File)
 Run the build command to generate the production files 
 - npm run build
+
 Run the build command:
-- npm run dist 
+- npm run dist
+
 Go to the dist/win-unpacked folder and double-click Task Manager.exe to run the app.
 
 ## 5. Project Structure
