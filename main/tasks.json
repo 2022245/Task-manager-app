@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1753632571768,
+    "text": "Go to the Gym ",
+    "description": "I have to do my routine ",
+    "dueDate": "2025-07-31",
+    "priority": "High",
+    "status": "Pending",
+    "completed": false
+  },
+  {
+    "id": 1753632613586,
+    "text": "do my homework ",
+    "description": "need to finish that shit ",
+    "dueDate": "2025-08-15",
+    "priority": "Low",
+    "status": "Pending",
+    "completed": true
+  },
+  {
+    "id": 1753641279320,
+    "text": "call my mum ",
+    "description": "i miss her ",
+    "dueDate": "2025-07-26",
+    "priority": "Medium",
+    "status": "Pending",
+    "completed": false
+  }
+]
