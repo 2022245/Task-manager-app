@@ -39,9 +39,11 @@ The app includes all the features requested in the requirements:
 1. Install dependencies:
    - npm install
 2. Run the developer version:
-   - npm run dev 
-3. To build the desktop app:
+   - npm run dev
+3. To build the production files
+   - npm run build 
+4. To build the desktop app:
    - npm run dist 
-4. The executable will appear in the dist/win-unpacked folder.
+5. The executable will appear in the dist/win-unpacked folder.
 
 
